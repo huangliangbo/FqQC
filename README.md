@@ -8,6 +8,7 @@ time ./FqQC_gc S1_L001_R1_001.fastq.gz
 ```
 
 > Num reads: 1470426
+
 > Num bases: 220563900
 > q20 bases: 215670500
 > q30 bases: 207905093
