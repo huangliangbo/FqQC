@@ -1,1 +1,1 @@
-A simple tool to calculate reads number, total base count, Q20 and Q30 in FASTQ file.
+A simple tool to calculate of number of raw reads, number of total, Q20, Q30 and GC content for FASTQ file.
